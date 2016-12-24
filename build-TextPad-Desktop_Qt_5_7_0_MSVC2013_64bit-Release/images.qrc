@@ -1,0 +1,11 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+<file alies="open.png">open.png</file>
+<file alies="paste.png">paste.png</file>
+<file alies="save.png">save.png</file>
+<file alies="exit.png">exit.png</file>
+<file alies="cut.png">cut.png</file>
+<file alies="copy.png">copy.png</file>
+<file alies="clean.png">clean.png</file>
+</qresource>
+</RCC>
